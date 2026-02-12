@@ -1,0 +1,7 @@
+{
+  "name": "ovvoc-test-scale-10",
+  "version": "1.0.0",
+  "description": "Complex webpack 4 build with 10 source files",
+  "scripts": { "test": "node test/config.test.js" },
+  "devDependencies": { "webpack": "4.46.0", "webpack-cli": "4.10.0" }
+}
